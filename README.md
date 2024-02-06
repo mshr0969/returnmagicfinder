@@ -26,7 +26,7 @@ func main() {
 
 ## Install
 ```shell
-go install github.com/mshr0969/returnmagicfinder/cmd/returnmagicfinder@v.1.0.0
+go install github.com/mshr0969/returnmagicfinder/cmd/returnmagicfinder@latest
 ```
 
 ## Usage
