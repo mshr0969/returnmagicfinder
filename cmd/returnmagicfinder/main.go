@@ -1,7 +1,7 @@
 package main
 
 import (
-	"returnmagicfinder"
+	"github.com/mshr0969/returnmagicfinder"
 
 	"golang.org/x/tools/go/analysis/unitchecker"
 )

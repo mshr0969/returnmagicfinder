@@ -1,4 +1,4 @@
-module returnmagicfinder
+module github.com/mshr0969/returnmagicfinder
 
 go 1.21
 
